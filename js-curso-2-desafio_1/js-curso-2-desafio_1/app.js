@@ -16,10 +16,10 @@ function clickPrompt(){
     
 }
 
-function clickSoma(){
-    let a = Number(prompt("digite um numero"));
-    let b = Number(prompt("digite outro"));
-    let soma = a + b;
-    alert(`A soma é de ${soma}`);
+function clickSomaa(){
+    let x = Number(prompt("Fala um numero ai, meu patrão"));
+    let y = Number(prompt("digite outro, meu brother"));
+    let soma = x + y;
+    alert(`A soma é de ${soma}. Ta pobreeee`);
 
-}
+} 
