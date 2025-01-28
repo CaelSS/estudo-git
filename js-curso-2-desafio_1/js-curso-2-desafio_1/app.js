@@ -8,6 +8,7 @@ function clickConsole(){
 
 function clickAlert(){
     alert("Eu amo javaScript");
+
 }
 
 function clickPrompt(){
