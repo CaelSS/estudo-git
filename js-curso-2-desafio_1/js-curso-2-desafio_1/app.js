@@ -7,7 +7,7 @@ function clickConsole(){
 }
 
 function clickAlert(){
-    alert("i <3 JS");
+    alert("Eu amo javaScript");
 }
 
 function clickPrompt(){
