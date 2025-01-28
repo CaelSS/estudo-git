@@ -18,8 +18,8 @@ function clickPrompt(){
 
 function clickSomaa(){
     let x = Number(prompt("Fala um numero ai, meu patrão"));
-    let y = Number(prompt("digite outro, meeu brother"));
+    let y = Number(prompt("digite outro, meu brother"));
     let soma = x + y;
-    alert(`A soma é de ${soma}. Ta pobreeee`);
+    alert(`A soma é de ${soma}. Ta pobre`);
 
 } 
